@@ -3,7 +3,7 @@
   "displayName": "Production System",
   "version": "1.0.0",
   "dependencies": {
-    "com.alexeytaranov.serializereferencedropdown": "1.1.4"
+    "com.alexeytaranov.serializereferencedropdown": "https://github.com/AlexeyTaranov/SerializeReferenceDropdown.git#1.1.4"
   },
   "samples": [
     {
@@ -15,16 +15,6 @@
       "displayName": "UI",
       "description": "Contains basic UI elements.",
       "path": "Samples~/UI"
-    }
-  ],
-  "scopedRegistries": [
-    {
-      "name": "package.openupm.com",
-      "url": "https://package.openupm.com",
-      "scopes": [
-        "com.alexeytaranov.serializereferencedropdown",
-        "com.jabbas.production_system"
-      ]
     }
   ]
 }
