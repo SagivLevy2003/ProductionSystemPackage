@@ -5,7 +5,6 @@
   "dependencies": {
     "com.alexeytaranov.serializereferencedropdown": "1.1.4"
   },
-
   "samples": [
     {
       "displayName": "Logic",
@@ -18,7 +17,6 @@
       "path": "Samples~/UI"
     }
   ],
-  
   "scopedRegistries": [
     {
       "name": "package.openupm.com",
@@ -28,6 +26,5 @@
         "com.jabbas.production_system"
       ]
     }
-
+  ]
 }
-
