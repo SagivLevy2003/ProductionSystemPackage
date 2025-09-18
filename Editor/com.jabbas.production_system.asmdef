@@ -1,0 +1,11 @@
+{
+  "name": "ProductionSystem.Editor",
+  "references": [
+    "ProductionSystem",
+    "FishNet.Runtime",        
+    "FishNet.CodeGenerating"  
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "autoReferenced": true
+}
