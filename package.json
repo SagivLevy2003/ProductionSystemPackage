@@ -2,9 +2,6 @@
   "name": "com.jabbas.production_system",
   "displayName": "Production System",
   "version": "1.0.0",
-  "dependencies": {
-    "com.alexeytaranov.serializereferencedropdown": "https://github.com/AlexeyTaranov/SerializeReferenceDropdown.git#v1.0.0"
-  },
   "samples": [
     {
       "displayName": "Logic",
@@ -18,5 +15,6 @@
     }
   ]
 }
+
 
 
