@@ -17,7 +17,7 @@
       "description": "Contains basic UI elements.",
       "path": "Samples~/UI"
     }
-  ]
+  ],
   
   "scopedRegistries": [
     {
@@ -30,3 +30,4 @@
     }
 
 }
+
