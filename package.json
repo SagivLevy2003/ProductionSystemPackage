@@ -18,4 +18,15 @@
       "path": "Samples~/UI"
     }
   ]
+  
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.alexeytaranov.serializereferencedropdown",
+        "com.jabbas.production_system"
+      ]
+    }
+
 }
